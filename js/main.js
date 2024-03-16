@@ -1,4 +1,4 @@
-let ul = document.querySelector('nav .ul')
+let ul = document.querySelector('nav .ul');
 
 function openMenu(){
     ul.classList.add('open');
